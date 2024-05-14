@@ -12,8 +12,8 @@ The Accident Severity Classifier project applies machine learning techniques to 
 ## Results
 The project identifies Logistic Regression (before oversampling) as the most effective model based on evaluation metrics.
 
-## Tentative Tableau viz
-https://public.tableau.com/app/profile/dev.mithunisvar/viz/USAAccident2017to2023/Dashboard1
+## Tableau viz
+https://public.tableau.com/app/profile/dev.mithunisvar/viz/USARoadAccidents2017to2023/Dashboard1#1
 
 ## Conclusion
 Insights into accident dynamics highlight the potential of data-driven approaches for improving road safety.
